@@ -1,0 +1,32 @@
+body{
+text-align: center;
+background: url(https://wallpaperxyz.com/wp-content/uploads/Website-Background-Images-HD-Free-Download-Wallpaperxyz.com-4.jpg) no-repeat fixed center;
+font-family: "Audiowide", sans-serif;
+}
+
+
+div.gallery {
+	align-items: center;
+  margin-left: 10%;
+	margin-bottom: 3%;
+  border: 1px solid #ccc;
+  float: left;
+  width: 50%;
+}
+
+div.gallery:hover {
+  border: 8px solid white;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 75%;
+}
+
+div.desc {
+	background-color: #0E3502;
+	color: #DAF7A6;
+  padding: 15px;
+	font-family: "Lucida Handwriting", cursive;
+  text-align: center;
+}
